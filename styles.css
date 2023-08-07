@@ -7,13 +7,13 @@ body, h1, h2, h3, p, ul, li {
 /* Apply basic styling to the body */
 body {
     font-family: Courier New, monospace;
-    background-color: #BBD68D;
+    background-color: #a88dd6;
     color: #333;
 }
 
 /* Style the header */
 header {
-    background-color: #a88dd6;
+    background-color: #BBD68D;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -24,7 +24,7 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
-    background-color: #a88dd6;
+    background-color: #BBD68D;
     padding: 0.5em 0;
 }
 
