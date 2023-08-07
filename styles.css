@@ -33,7 +33,7 @@ nav li {
 }
 
 nav a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ nav a {
 }
 
 .project img {
-    max-width: 25%;
+    max-width: 6%;
     height: auto;
 }
 
